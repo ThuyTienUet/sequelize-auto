@@ -1,0 +1,81 @@
+{
+  "name": "ResistivitySonicTemplate",
+  "option": "resistivity-sonic",
+  "depth_axes": [
+    {
+      "geogetryWidth": 1,
+      "orderNum": "a"
+    }
+  ],
+  "tracks": [
+    {
+      "orderNum": "b",
+      "title": "Gamma Ray",
+      "lines": [
+        {
+          "families": [
+            {
+              "name": "Caliper"
+            }
+          ]
+        },
+        {
+          "families": [
+            {
+              "name": "Gamma Ray"
+            },
+            {
+              "name": "Gamma Ray 1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "orderNum": "c",
+      "title": "Resistivity",
+      "lines": [
+        {
+          "families": [
+            {
+              "name": "Flushed Zone Resistivity"
+            },
+            {
+              "name": "Invaded Zone Resistivity"
+            }
+          ]
+        },
+        {
+          "families": [
+            {
+              "name": "Shallow Resistivity"
+            }
+          ]
+        },
+        {
+          "families": [
+            {
+              "name": "Deep Resistivity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "orderNum": "d",
+      "title": "Sonic",
+      "lines": [
+        {
+          "families": [
+            {
+              "name": "Compressional Slowness"
+            },
+            {
+              "name": "Acoustic"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

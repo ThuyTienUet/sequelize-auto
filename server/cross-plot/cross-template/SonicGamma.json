@@ -1,0 +1,23 @@
+{
+  "name": "SonicGamma",
+  "curveX": {
+    "families": [
+      {
+        "name": "Acoustic"
+      },
+      {
+        "name": "Compressional Slowness"
+      }
+    ]
+  },
+  "curveY": {
+    "families": [
+      {
+        "name": "Gamma Ray"
+      },
+      {
+        "name": "Gamma Ray 1"
+      }
+    ]
+  }
+}

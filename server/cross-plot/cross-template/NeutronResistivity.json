@@ -1,0 +1,20 @@
+{
+  "name": "NeutronResistivity",
+  "curveX": {
+    "families": [
+      {
+        "name": "Neutron Porosity"
+      },
+      {
+        "name": "Thermal Neutron Porosity"
+      }
+    ]
+  },
+  "curveY": {
+    "families": [
+      {
+        "name": "Deep resistivity"
+      }
+    ]
+  }
+}

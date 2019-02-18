@@ -1,0 +1,11 @@
+{
+  "name": "GR Histogram",
+  "families": [
+    {
+      "name": "Gamma Ray"
+    },
+    {
+      "name": "Gamma Ray 1"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "SonicPhi_total",
+  "curveX": {
+    "families": [
+      {
+        "name": "Acoustic"
+      },
+      {
+        "name": "Compressional Slowness"
+      }
+    ]
+  },
+  "curveY": {
+    "families": [
+      {
+        "name": "Total Porosity"
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "name": "NeutronDensity",
+  "curveX": {
+    "families": [
+      {
+        "name": "Neutron Porosity"
+      },
+      {
+        "name": "Thermal Neutron Porosity"
+      }
+    ]
+  },
+  "curveY": {
+    "families": [
+      {
+        "name": "Bulk Density"
+      }
+    ]
+  }
+}

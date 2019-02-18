@@ -1,0 +1,23 @@
+{
+  "name": "NeutronGamma",
+  "curveX": {
+    "families": [
+      {
+        "name": "Neutron Porosity"
+      },
+      {
+        "name": "Thermal Neutron Porosity"
+      }
+    ]
+  },
+  "curveY": {
+    "families": [
+      {
+        "name": "Gamma Ray"
+      },
+      {
+        "name": "Gamma Ray 1"
+      }
+    ]
+  }
+}

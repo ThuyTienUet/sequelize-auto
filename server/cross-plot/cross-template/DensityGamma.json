@@ -1,0 +1,20 @@
+{
+  "name": "DensityGamma",
+  "curveX": {
+    "families": [
+      {
+        "name": "Bulk Density"
+      }
+    ]
+  },
+  "curveY": {
+    "families": [
+      {
+        "name": "Gamma Ray"
+      },
+      {
+        "name": "Gamma Ray 1"
+      }
+    ]
+  }
+}

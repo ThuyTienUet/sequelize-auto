@@ -1,0 +1,123 @@
+{
+  "familyGroupX": "Neutron",
+  "familyGroupY": "Density",
+  "lines": [
+    {
+      "names": "PLAGIOCLASE",
+      "color": "Black",
+      "data": [
+        {
+          "x": "0.047",
+          "y": "2.69",
+          "type": "-"
+        },
+        {
+          "x": "0.047",
+          "y": "2.69",
+          "type": "-"
+        }
+      ]
+    },
+    {
+      "names": "1",
+      "color": "Blue",
+      "data": [
+        {
+          "x": "0.530",
+          "y": "2.78",
+          "type": "CHLORITE\t-0.017"
+        },
+        {
+          "x": "0.047",
+          "y": "2.69",
+          "type": "-"
+        }
+      ]
+    },
+    {
+      "names": "2",
+      "color": "Fuchsia",
+      "data": [
+        {
+          "x": "-0.017",
+          "y": "2.61",
+          "type": "QUARTZ"
+        },
+        {
+          "x": "0.047",
+          "y": "2.69",
+          "type": "-"
+        }
+      ]
+    },
+    {
+      "names": "3",
+      "color": "Maroon",
+      "data": [
+        {
+          "x": "0.225",
+          "y": "2.89",
+          "type": "MB"
+        },
+        {
+          "x": "0.047",
+          "y": "2.69",
+          "type": "-"
+        }
+      ]
+    },
+    {
+      "names": "4",
+      "color": "Red",
+      "data": [
+        {
+          "x": "0.315",
+          "y": "2.215",
+          "type": "FLUID"
+        },
+        {
+          "x": "0.047",
+          "y": "2.69",
+          "type": "-"
+        }
+      ]
+    },
+    {
+      "names": "5",
+      "color": "Green",
+      "data": [
+        {
+          "x": "0.2",
+          "y": "2.779",
+          "type": "MUSCOVITE"
+        },
+        {
+          "x": "0.225",
+          "y": "2.89",
+          "type": "MB"
+        }
+      ]
+    },
+    {
+      "names": "6",
+      "color": "Blue",
+      "data": [
+        {
+          "x": "0.239",
+          "y": "2.969",
+          "type": "BIOTITE"
+        },
+        {
+          "x": "0.225",
+          "y": "2.89",
+          "type": "MB"
+        }
+      ]
+    }
+  ],
+  "X": "0",
+  "Y": "0",
+  "rotation": "0",
+  "color": "Green",
+  "label": " (FR) Density Neutron(NPHI) Overlay"
+}

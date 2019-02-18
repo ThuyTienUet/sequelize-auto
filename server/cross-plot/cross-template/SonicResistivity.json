@@ -1,0 +1,20 @@
+{
+  "name": "SonicResistivity",
+  "curveX": {
+    "families": [
+      {
+        "name": "Acoustic"
+      },
+      {
+        "name": "Compressional Slowness"
+      }
+    ]
+  },
+  "curveY": {
+    "families": [
+      {
+        "name": "Deep resistivity"
+      }
+    ]
+  }
+}

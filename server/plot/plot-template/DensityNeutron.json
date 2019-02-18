@@ -1,0 +1,58 @@
+{
+  "name": "DensityNeutronTemplate",
+  "option": "density-neutron",
+  "depth_axes": [
+    {
+      "geogetryWidth": 1,
+      "orderNum": "a"
+    }
+  ],
+  "tracks": [
+    {
+      "orderNum": "b",
+      "title": "Gamma Ray",
+      "lines": [
+        {
+          "families": [
+            {
+              "name": "Caliper"
+            }
+          ]
+        },
+        {
+          "families": [
+            {
+              "name": "Gamma Ray"
+            },
+            {
+              "name": "Gamma Ray 1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "orderNum": "c",
+      "title": "Neutron - Density",
+      "lines": [
+        {
+          "families": [
+            {
+              "name": "Neutron Porosity"
+            },
+            {
+              "name": "Thermal Neutron Porosity"
+            }
+          ]
+        },
+        {
+          "families": [
+            {
+              "name": "Bulk Density"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
